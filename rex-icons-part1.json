@@ -1,0 +1,406 @@
+{
+  "name": "Rex圖示庫-1",
+  "description": "第1部分，共 100 個",
+  "icons": [
+    {
+      "name": "B03-bilibili-iris-violet-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/B03-bilibili-iris-violet-rounded.png"
+    },
+    {
+      "name": "C01-cream-beige-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C01-cream-beige-rounded.png"
+    },
+    {
+      "name": "C01-cream-beige-rounded_2",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C01-cream-beige-rounded_2.png"
+    },
+    {
+      "name": "C02-peach-pink-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C02-peach-pink-rounded.png"
+    },
+    {
+      "name": "C02-peach-pink-rounded_2",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C02-peach-pink-rounded_2.png"
+    },
+    {
+      "name": "C03-lilac-purple-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C03-lilac-purple-rounded.png"
+    },
+    {
+      "name": "C03-lilac-purple-rounded_2",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C03-lilac-purple-rounded_2.png"
+    },
+    {
+      "name": "C04-mint-teal-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C04-mint-teal-rounded.png"
+    },
+    {
+      "name": "C04-mint-teal-rounded_2",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C04-mint-teal-rounded_2.png"
+    },
+    {
+      "name": "C05-custard-yellow-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C05-custard-yellow-rounded.png"
+    },
+    {
+      "name": "C05-custard-yellow-rounded_2",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C05-custard-yellow-rounded_2.png"
+    },
+    {
+      "name": "C06-mist-blue-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C06-mist-blue-rounded.png"
+    },
+    {
+      "name": "C06-mist-blue-rounded_2",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/C06-mist-blue-rounded_2.png"
+    },
+    {
+      "name": "D01-douyin-classic-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/D01-douyin-classic-rounded.png"
+    },
+    {
+      "name": "D02-douyin-glacier-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/D02-douyin-glacier-rounded.png"
+    },
+    {
+      "name": "D03-douyin-rose-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/D03-douyin-rose-rounded.png"
+    },
+    {
+      "name": "HG01-hongguo-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/HG01-hongguo-pearl-rounded.png"
+    },
+    {
+      "name": "HG02-hongguo-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/HG02-hongguo-pearl-rounded.png"
+    },
+    {
+      "name": "HG03-hongguo-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/HG03-hongguo-pearl-rounded.png"
+    },
+    {
+      "name": "HY01-huya-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/HY01-huya-pearl-rounded.png"
+    },
+    {
+      "name": "HY02-huya-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/HY02-huya-pearl-rounded.png"
+    },
+    {
+      "name": "HY03-huya-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/HY03-huya-pearl-rounded.png"
+    },
+    {
+      "name": "K01-honey-bear-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/K01-honey-bear-rounded.png"
+    },
+    {
+      "name": "K02-lilac-bunny-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/K02-lilac-bunny-rounded.png"
+    },
+    {
+      "name": "NE01-netease-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/NE01-netease-pearl-rounded.png"
+    },
+    {
+      "name": "NE02-netease-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/NE02-netease-pearl-rounded.png"
+    },
+    {
+      "name": "NE03-netease-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/NE03-netease-pearl-rounded.png"
+    },
+    {
+      "name": "QM01-qqmusic-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/QM01-qqmusic-pearl-rounded.png"
+    },
+    {
+      "name": "QM02-qqmusic-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/QM02-qqmusic-pearl-rounded.png"
+    },
+    {
+      "name": "QM03-qqmusic-pearl-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/QM03-qqmusic-pearl-rounded.png"
+    },
+    {
+      "name": "avdb-a-play-blue-1024-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-a-play-blue-1024-rounded.png"
+    },
+    {
+      "name": "avdb-a-play-graphite-1024-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-a-play-graphite-1024-rounded.png"
+    },
+    {
+      "name": "avdb-a-play-violet-1024-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-a-play-violet-1024-rounded.png"
+    },
+    {
+      "name": "avdb-av-purple",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-av-purple.png"
+    },
+    {
+      "name": "avdb-av-ribbon-violet-1024-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-av-ribbon-violet-1024-rounded.png"
+    },
+    {
+      "name": "avdb-media-library-violet-1024-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-media-library-violet-1024-rounded.png"
+    },
+    {
+      "name": "avdb-media",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-media.png"
+    },
+    {
+      "name": "avdb-play-blue",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-play-blue.png"
+    },
+    {
+      "name": "avdb-play-dark",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-play-dark.png"
+    },
+    {
+      "name": "avdb-play-purple-clear",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-play-purple-clear.png"
+    },
+    {
+      "name": "avdb-play-purple",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-play-purple.png"
+    },
+    {
+      "name": "avdb-premium-graphite-1024-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-premium-graphite-1024-rounded.png"
+    },
+    {
+      "name": "avdb-premium-graphite-1024-rounded_2",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-premium-graphite-1024-rounded_2.png"
+    },
+    {
+      "name": "avdb-premium-graphite",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-premium-graphite.png"
+    },
+    {
+      "name": "avdb-premium-midnight-1024-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-premium-midnight-1024-rounded.png"
+    },
+    {
+      "name": "avdb-premium-midnight-1024-rounded_2",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-premium-midnight-1024-rounded_2.png"
+    },
+    {
+      "name": "avdb-premium-midnight",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-premium-midnight.png"
+    },
+    {
+      "name": "avdb-premium-plum-1024-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-premium-plum-1024-rounded.png"
+    },
+    {
+      "name": "avdb-premium-plum-1024-rounded_2",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-premium-plum-1024-rounded_2.png"
+    },
+    {
+      "name": "avdb-premium-plum-clear",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-premium-plum-clear.png"
+    },
+    {
+      "name": "avdb-premium-plum",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/avdb-premium-plum.png"
+    },
+    {
+      "name": "b02",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/b02.png"
+    },
+    {
+      "name": "b03",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/b03.png"
+    },
+    {
+      "name": "bright-red",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/bright-red.png"
+    },
+    {
+      "name": "burgundy",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/burgundy.png"
+    },
+    {
+      "name": "champagne-yellow",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/champagne-yellow.png"
+    },
+    {
+      "name": "champagne",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/champagne.png"
+    },
+    {
+      "name": "d01",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/d01.png"
+    },
+    {
+      "name": "d02",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/d02.png"
+    },
+    {
+      "name": "dusty-rose",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/dusty-rose.png"
+    },
+    {
+      "name": "glacier",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/glacier.png"
+    },
+    {
+      "name": "grape",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/grape.png"
+    },
+    {
+      "name": "hg01",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/hg01.png"
+    },
+    {
+      "name": "hg02",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/hg02.png"
+    },
+    {
+      "name": "hg03",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/hg03.png"
+    },
+    {
+      "name": "honey",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/honey.png"
+    },
+    {
+      "name": "hy01",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/hy01.png"
+    },
+    {
+      "name": "hy02",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/hy02.png"
+    },
+    {
+      "name": "hy03",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/hy03.png"
+    },
+    {
+      "name": "iris",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/iris.png"
+    },
+    {
+      "name": "k01",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/k01.png"
+    },
+    {
+      "name": "k02",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/k02.png"
+    },
+    {
+      "name": "k03",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/k03.png"
+    },
+    {
+      "name": "k04",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/k04.png"
+    },
+    {
+      "name": "k05",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/k05.png"
+    },
+    {
+      "name": "k06",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/k06.png"
+    },
+    {
+      "name": "lavender",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/lavender.png"
+    },
+    {
+      "name": "lemon-yellow",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/lemon-yellow.png"
+    },
+    {
+      "name": "matcha",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/matcha.png"
+    },
+    {
+      "name": "midnight",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/midnight.png"
+    },
+    {
+      "name": "mocha",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/mocha.png"
+    },
+    {
+      "name": "mustard-yellow",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/mustard-yellow.png"
+    },
+    {
+      "name": "ne01",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/ne01.png"
+    },
+    {
+      "name": "ne02",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/ne02.png"
+    },
+    {
+      "name": "ne03",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/ne03.png"
+    },
+    {
+      "name": "obsidian",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/obsidian.png"
+    },
+    {
+      "name": "olive-gold",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/olive-gold.png"
+    },
+    {
+      "name": "peacock",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/peacock.png"
+    },
+    {
+      "name": "pine",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/pine.png"
+    },
+    {
+      "name": "pure-yellow",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/pure-yellow.png"
+    },
+    {
+      "name": "qm01",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/qm01.png"
+    },
+    {
+      "name": "qm02",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/qm02.png"
+    },
+    {
+      "name": "qm03",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/qm03.png"
+    },
+    {
+      "name": "raspberry",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/raspberry.png"
+    },
+    {
+      "name": "rex-square-01-ocean-blue-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/rex-square-01-ocean-blue-rounded.png"
+    },
+    {
+      "name": "rex-square-02-lagoon-teal-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/rex-square-02-lagoon-teal-rounded.png"
+    },
+    {
+      "name": "rex-square-03-jade-green-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/rex-square-03-jade-green-rounded.png"
+    },
+    {
+      "name": "rex-square-04-amber-gold-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/rex-square-04-amber-gold-rounded.png"
+    },
+    {
+      "name": "rex-square-05-coral-peach-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/rex-square-05-coral-peach-rounded.png"
+    },
+    {
+      "name": "rex-square-06-rose-pink-rounded",
+      "url": "https://raw.githubusercontent.com/kenxtbecdi7690/Rex-icons/main/rex-square-06-rose-pink-rounded.png"
+    }
+  ]
+}
